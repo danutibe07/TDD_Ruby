@@ -110,9 +110,8 @@ To run tests, run the following command:
 
 👤 **Kagheni Mbale Christian**
 
-- GitHub: [@githubhandle](https://github.com/Kaghenimbale)
-- Twitter: [@twitterhandle](https://twitter.com/MbaleKagheni)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kagheni-mbale-401b90240/)
+- GitHub: [@githubhandle](https://github.com/danutibe07)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/danutibe07/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
